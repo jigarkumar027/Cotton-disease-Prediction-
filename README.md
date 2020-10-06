@@ -13,7 +13,11 @@ The Resnet50 Is having This Many Pre-trained Perameter : 25,636,712
 Some screnshots of Prediction :
 
 
+![Write Predicted](https://user-images.githubusercontent.com/53794122/95225013-f524d080-0818-11eb-9cd7-f6a338f8ad82.png)
+
+The Aove One is a Correctly Predicted image.
 
 Now The Wrong Predicted Image:
 
 ![wrong Predicted](https://user-images.githubusercontent.com/53794122/95224770-b55de900-0818-11eb-99d5-e4bd7a9f2f8b.png)
+
