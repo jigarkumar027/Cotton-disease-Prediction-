@@ -10,12 +10,12 @@ The Link for the Keras Page : https://keras.io/api/applications/
 
 The Resnet50 Is having This Many Pre-trained Perameter : 25,636,712
 
-Some screnshots of Prediction :
+Some screenshots of Prediction :
 
 
 ![Write Predicted](https://user-images.githubusercontent.com/53794122/95225013-f524d080-0818-11eb-9cd7-f6a338f8ad82.png)
 
-The Aove One is a Correctly Predicted image.
+The Above One is a Correctly Predicted image.
 
 Now The Wrong Predicted Image:
 
