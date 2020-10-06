@@ -21,3 +21,5 @@ Now The Wrong Predicted Image:
 
 ![wrong Predicted](https://user-images.githubusercontent.com/53794122/95224770-b55de900-0818-11eb-99d5-e4bd7a9f2f8b.png)
 
+The Credict For The Frontend : Krish Naik Sir And AI Production..
+
